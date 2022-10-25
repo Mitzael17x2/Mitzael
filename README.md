@@ -28,3 +28,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zipper_mouth_face: I prefer to work 24/7
 - :point_right: My salary is food
 - :tea: Cup of tea is solution for a majority of problems 
+
+### :hammer_and_wrench: Languages and Tools :
+
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5"  alt="html5" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3"  alt="css3" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js"  alt="js" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass"  alt="sass" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php"  alt="php" width="40" height="40"/>
+</div>
+
