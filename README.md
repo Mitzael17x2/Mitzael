@@ -40,3 +40,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php"  alt="php" width="40" height="40"/>
 </div>
 
+### :fire: My Stats :
+<div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mitzael17x2&theme=garden&hide_border=true&border_radius=1&date_format=[Y.]n.j">
+</div>
+<div>
+ <img src="https://github-readme-stats.vercel.app/api?username=Mitzael17x2"> 
+ </div>
+
+
+
+
